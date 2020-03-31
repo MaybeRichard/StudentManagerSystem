@@ -60,18 +60,18 @@ IDEA
 
 项目截图
 
-![项目截图-1](/Users/richardlee/Downloads/Code/Java/毕业设计/项目截图-1.png)
+![Login](https://github.com/MaybeRichard/StudentManagerSystem/showroom/1.png)
 
-![项目截图-2](/Users/richardlee/Downloads/Code/Java/毕业设计/项目截图-2.png)
+![Course](https://github.com/MaybeRichard/StudentManagerSystem/showroom/2.png)
 
-![项目截图-3](/Users/richardlee/Downloads/Code/Java/毕业设计/项目截图-3.png)
+![Vocation](https://github.com/MaybeRichard/StudentManagerSystem/showroom/3.png)
 
-![项目截图-4](/Users/richardlee/Downloads/Code/Java/毕业设计/项目截图-4.png)
+![updatePasswd](https://github.com/MaybeRichard/StudentManagerSystem/showroom/4.png)
 
-![项目截图-5](/Users/richardlee/Downloads/Code/Java/毕业设计/项目截图-5.png)
+![Welcome page](https://github.com/MaybeRichard/StudentManagerSystem/showroom/5.png)
 
-![项目截图-6](/Users/richardlee/Downloads/Code/Java/毕业设计/项目截图-6.png)
+![Teacher list](https://github.com/MaybeRichard/StudentManagerSystem/showroom/6.png)
 
-![项目截图-7](/Users/richardlee/Downloads/Code/Java/毕业设计/项目截图-7.png)
+![Index grade](https://github.com/MaybeRichard/StudentManagerSystem/showroom/7.png)
 
-![项目截图-8](/Users/richardlee/Downloads/Code/Java/毕业设计/项目截图-8.png)
+![Check chart](https://github.com/MaybeRichard/StudentManagerSystem/showroom/8.png)
