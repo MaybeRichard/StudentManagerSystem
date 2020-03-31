@@ -60,18 +60,18 @@ IDEA
 
 项目截图
 
-![Login](https://github.com/MaybeRichard/StudentManagerSystem/showroom/1.png)
+![Login](https://github.com/MaybeRichard/StudentManagerSystem/blob/master/showroom/1.png)
 
-![Course](https://github.com/MaybeRichard/StudentManagerSystem/showroom/2.png)
+![Course](https://github.com/MaybeRichard/StudentManagerSystem/blob/master/showroom/2.png)
 
-![Vocation](https://github.com/MaybeRichard/StudentManagerSystem/showroom/3.png)
+![Vocation](https://github.com/MaybeRichard/StudentManagerSystem/blob/master/showroom/3.png)
 
-![updatePasswd](https://github.com/MaybeRichard/StudentManagerSystem/showroom/4.png)
+![updatePasswd](https://github.com/MaybeRichard/StudentManagerSystem/blob/master/showroom/4.png)
 
-![Welcome page](https://github.com/MaybeRichard/StudentManagerSystem/showroom/5.png)
+![Welcome page](https://github.com/MaybeRichard/StudentManagerSystem/blob/master/showroom/5.png)
 
-![Teacher list](https://github.com/MaybeRichard/StudentManagerSystem/showroom/6.png)
+![Teacher list](https://github.com/MaybeRichard/StudentManagerSystem/blob/master/showroom/6.png)
 
-![Index grade](https://github.com/MaybeRichard/StudentManagerSystem/showroom/7.png)
+![Index grade](https://github.com/MaybeRichard/StudentManagerSystem/blob/master/showroom/7.png)
 
-![Check chart](https://github.com/MaybeRichard/StudentManagerSystem/showroom/8.png)
+![Check chart](https://github.com/MaybeRichard/StudentManagerSystem/blob/master/showroom/8.png)
